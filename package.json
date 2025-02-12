@@ -1,5 +1,5 @@
 {
-  "name": "PicSafe",
+  "name": "picsafe",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -32,7 +32,7 @@
     "react-hot-toast": "^2.4.1",
     "tailwind-merge": "^2.6.0",
     "tailwindcss-animate": "^1.0.7",
-    "uploadthing": "^7.5.0"
+    "uploadthing": "6.0.0"
   },
   "devDependencies": {
     "@types/node": "^20",
